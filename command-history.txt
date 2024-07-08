@@ -1,0 +1,113 @@
+    1  git--persyion
+    2  makdir latihan--git
+    3  cd latihan-git/
+    4  /latihan-#
+    5  git-persyion
+    6  makdir latihan-git
+    7  git-persyion
+    8  makdir latihan-git
+    9  sudo apt instal gh
+   10  git --version
+   11  mkdir latihan-git
+   12  cd latihan-git/
+   13  git --version
+   14  mkdir latihan-git
+   15  ls
+   16  cd latihan-git/
+   17  /
+   18  sudo apt install gh
+   19  git --version
+   20  mkdir latihan-git
+   21  ls
+   22  cd latihan-git/
+   23  sudo apt instal gdebi-core wget
+   24  sudo apt install gdebi-core wegt
+   25  sudo apt install gdebi-core wget 
+   26  sudo apt install gdebi-core wget
+   27  git --version
+   28  mkdir latihan-git
+   29  ls
+   30  git --version
+   31  git  --version
+   32  mkdir latihan-git
+   33  ls
+   34  google-chrome
+   35  sudo apt install gh
+   36  sudo apt update
+   37  sudo apt install chromium-browser
+   38  sudo apt update
+   39  sudo apt upgrade
+   40  sudo apt install gh
+   41  sudo apt install git
+   42  sudo apt install chromium-browser
+   43  chromium-browser
+   44  whoami
+   45  chromium-browser --no-sandbox
+   46  gh auth login
+   47  google chrome
+   48  wget --version
+   49  sudo apt install wget
+   50  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   51  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   52  sudo apt-get install -f
+   53  google-chrome
+   54  sudo apt-get install -f
+   55  google-chrome
+   56  google-chrome --no-sandbox
+   57  google chrome
+   58  google_chrome
+   59  google-chrome
+   60  google-chrome --no-sandbox
+   61  git --version
+   62  gh status
+   63  google-chrome --no-sandbox
+   64  git -version
+   65  git-version
+   66  gh-status
+   67  gh outh status
+   68  kode .
+   69  code .
+   70  google-chrome --no-sandbox
+   71  git --version
+   72  google-chrome -no--sandbox
+   73  google-chrome --no-sandbox
+   74  code .
+   75  git --version
+   76  code .
+   77  google-chrome --no-sandbox
+   78  google-crhome --no-sandbox
+   79  google-chrome --no-sandbox
+   80  code .
+   81  sudo abduser munkhafi
+   82  sudo adduser munkhafi
+   83  login munkhafi
+   84  git --version
+   85  sudo apt install git
+   86  cur1 ~o~ https://raw.githubusercontent.com/nvm/v0.37.2,
+   87  curl ~o~ https://raw.githubusercontent.com/nvm/v0.37.2,
+   88  git --version
+   89  sudo apt install git
+   90  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install sh I bash
+   91  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2,
+   92  nvm --v
+   93  snapname --versions
+   94  nvm --v
+   95  nvm install v14.15.4
+   96  node -v
+   97  git clone https://github.com/misterpotabi/projek-uas-komdat
+   98  ls
+   99  cd uas-comdat-24-1/
+  100  ls
+  101  code .
+  102  nvm --v
+  103  nvm install v14.15.4
+  104  node -v
+  105  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+  106  ls
+  107  cd uas-komdat-24/
+  108  ls
+  109  code .
+  110  npm install
+  111  npm run start
+  112  history >command-history.txt
+  113  history > command-history.txt
